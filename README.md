@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I’m currently working on [triplot](https://modeloriented.github.io/triplot/) - an R package for eXplainable Artificial Intelligence, part of [DrWhy.AI](https://github.com/ModelOriented/).
+I’m currently working as Machine Learning Ops Engineer. 
+
+My past projects include [triplot](https://modeloriented.github.io/triplot/) - an R package for eXplainable Artificial Intelligence, part of [DrWhy.AI](https://github.com/ModelOriented/).
 
 You can find more information about **triplot** here:
-
 - 🌐 [triplot on github](https://github.com/ModelOriented/triplot) 
-
-- 📰 [blog post about triplot](https://medium.com/responsibleml/explaining-models-with-triplot-part-1-3bdbd78501dc) 
-
-- 📕 [triplot docs](https://modeloriented.github.io/triplot/).
-
